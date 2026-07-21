@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on Open-source projects related to Data Analytics and Machine Learning <br>and also looking to participate on Hackathons or coding challenges.<br>I’m looking for help with Optimizing database queries for large-scale applications and Learning advanced algorithms.<br>I’m currently learning Machine Learning with Python, Artificial Intelligence(AI).
+I'm looking to collaborate on Open-source projects related to Software Development, Data Analytics and Machine Learning <br>and also looking to participate on Hackathons or coding challenges.<br>I’m looking for help with Optimizing database queries for large-scale applications and Learning advanced algorithms.<br>I’m currently learning Java, Machine Learning with Python, Artificial Intelligence(AI).
 
 
 ## 🌐 Socials:
